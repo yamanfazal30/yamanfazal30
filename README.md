@@ -52,7 +52,6 @@
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yamanfazal30&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yamanfazal30&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
 </div>
 
 <div align="center">
