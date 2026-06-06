@@ -22,15 +22,7 @@
     <img src="https://img.shields.io/badge/-Fiverr_Gig-1DBF73?style=flat-square&logo=Fiverr&logoColor=white" alt="Fiverr"/>
   </a>
 
-  <!-- Upwork -->
-  <a href="YOUR_UPWORK_LINK">
-    <img src="https://img.shields.io/badge/-Upwork-6FDA44?style=flat-square&logo=Upwork&logoColor=white" alt="Upwork"/>
-  </a>
 
-  <!-- Email -->
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/-Hire%20Me-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Hire Me"/>
-  </a>
 </p>
 
 <p align="center">  
@@ -150,25 +142,3 @@
 ---
 
 ## 💬 Let's Connect & Collaborate
-
-<div align="center">
-
-### I am always available to consult on:
-**📈 Interactive Dashboards** • **🔍 SQL Data Extraction** • **⚙️ Spreadsheet Automation** • **💡 Business Reporting**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Fiverr](https://img.shields.io/badge/Fiverr_Gig-Order_Dashboard-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](YOUR_FIVERR_GIG_OR_PROFILE_LINK)
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-Available-green?style=for-the-badge)](mailto:your-email@gmail.com)
-
-<br/>
-
-### 💭 Data Wisdom
-*"In God we trust, all others must bring data."* – W. Edwards Deming
-
-*"Torture the data, and it will confess to anything."* – Ronald Coase
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Turning%20Data%20into%20Decisions!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=70&flip=vertical" width="100%">
-</div>
