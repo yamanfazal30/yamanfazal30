@@ -1,78 +1,174 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,25,47,0,217,255&height=180&section=header&text=YAMAN%20FAZAL&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%">
-</p>
-
-<h2 align="center">📊 Data Analyst & Automation Specialist</h2>
-<p align="center"><b>Turning Raw Data into Actionable Business Intelligence & Dynamic Solutions</b></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=YAMAN%20FAZAL&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%">
+<h3 align="center">Data Analyst | Business Intelligence Specialist | Data Storyteller</h3>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Python+for+Data+Science+%26+ETL;Advanced+SQL+Querying+%26+Data+Modeling;Interactive+Power+BI+%26+Tableau+Dashboards;Automating+Workflows+with+Cloud+Integrations">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Python+for+Data+Science+%26+ETL;Advanced+SQL+Querying+%26+Data+Modeling;Interactive+Power+BI+%26+Tableau+Dashboards;Automating+Workflows+with+Cloud+Integrations" alt="Typing SVG" />
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <!-- Portfolio -->
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=internetexplorer&logoColor=white" alt="Portfolio"/>
+  </a>
+
+  <!-- Fiverr -->
+  <a href="YOUR_FIVERR_GIG_OR_PROFILE_LINK">
+    <img src="https://img.shields.io/badge/-Fiverr_Gig-1DBF73?style=flat-square&logo=Fiverr&logoColor=white" alt="Fiverr"/>
+  </a>
+
+  <!-- Upwork -->
+  <a href="YOUR_UPWORK_LINK">
+    <img src="https://img.shields.io/badge/-Upwork-6FDA44?style=flat-square&logo=Upwork&logoColor=white" alt="Upwork"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/-Hire%20Me-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Hire Me"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yaman-fazal-684819311/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:yamanfazal301@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<p align="center">  
+  <img src="https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME?style=flat-square">
+  <img src="https://img.shields.io/github/repo-size/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME?style=flat-square">
+  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME?style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=blueviolet&style=flat-square">
 </p>
 
----
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=4CAF50&center=true&vCenter=true&width=900&lines=Hi!+I'm+Yaman+Fazal;Welcome+to+My+Data+Portfolio;Building+Dynamic+Excel+%26+Power+BI+Dashboards;Turning+Raw+Data+Into+Actionable+Insights;Let's+Connect+%26+Collaborate" alt="Typing SVG"/>
+  </a>
+</p>
 
 ### 👋 About Me
+* 📊 Passionate **Data Analyst** dedicated to turning complex datasets into clear, actionable business insights.
+* 📈 Specializing in engineering **Dynamic, Automated Excel Dashboards** and interactive **Power BI reports**.
+* 🔍 Proficient in data extraction, cleaning, and modeling using **SQL** and **Python (Pandas, NumPy)**.
+* 💡 Focused on data architecture, optimization, and creating intuitive visual logic for stakeholders.
+* 👨‍💻 Explore my end-to-end analytics projects available down below or on [**GitHub**](https://github.com/YOUR_GITHUB_USERNAME).
+* 💬 Ask me about **Data Modeling, DAX formulas, SQL queries, or Dashboard UI/UX design**.
+  
+---
 
-- 📈 **Freelance Data Analyst** specializing in processing complex datasets and building automated data pipelines.
-- 🛠️ Deeply passionate about **Data Governance, Reporting Automation, and Predictive Insights**.
-- 💡 Aiming to bridge the gap between technical data infrastructure and business decision-making.
-- ⚡ **Core Philosophy:** *Without data, you're just another person with an opinion.*
+## 🚀 Signature Projects
+
+<div align="center">
+
+### 📊 Automated Executive Business Dashboard &nbsp;·&nbsp; Advanced Excel & Power BI
+
+*A production-grade, dynamic analytics dashboard engineered to aggregate multi-source business data. Features automated data cleaning pipelines, complex DAX measures, dynamic KPI tracking, and a sleek user-focused interface design for executive decision-making.*
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel_Advanced-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PowerQuery](https://img.shields.io/badge/Power_Query-008080?style=flat-square&logo=microsoft&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX_Modeling-2563EB?style=flat-square&logo=databricks&logoColor=white)
+
+</div>
 
 ---
 
-### 💻 Technical Toolbox
+<div align="center">
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h4>🎨 Data Viz & BI</h4>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white" />
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4>⚙️ Languages & Logic</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4>☁️ Infrastructure</h4>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-    </td>
-  </tr>
-</table>
+### 🔍 Relational Database Optimization & Analytics &nbsp;·&nbsp; SQL & Data Warehousing
+
+*An end-to-end database optimization project focused on extracting metrics from transactional business tables. Built complex multi-table JOINs, subqueries, CTEs, and window functions to audit data performance and feed cleaned tables directly into visualization tools.*
+
+![SQL](https://img.shields.io/badge/SQL_PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Cleaning-FF4154?style=flat-square)
+
+</div>
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yamanfazal30&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" width="100%" alt="GitHub Trophies" />
-</p>
+<div align="center">
+
+### 🐍 Algorithmic Data Wrangling Pipeline &nbsp;·&nbsp; Python Data Science Stack
+
+*A robust data pipeline script developed using Python to automate the ETL process for irregular business spreadsheets. Cleans missing records, handles outliers, structures unpivoted tables, and exports clean CSV datasets ready for analytics deployment.*
+
+![Python](https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</div>
 
 ---
 
-### 📊 Performance Metrics
+### 💻 Tech Stack & Analytics Arsenal
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yamanfazal30&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yamanfazal30&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=ffffff" alt="GitHub Streak" />
-</p>
+<details open>
+<summary><b>📊 Data Visualization & Business Intelligence</b></summary>
+<br/>
+
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![VBA](https://img.shields.io/badge/-Excel_VBA-1E4620?style=for-the-badge)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Database Management & Query Languages</b></summary>
+<br/>
+
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🐍 Data Engineering & Programming Stack</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</details>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,25,47,0,217,255&height=100&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65&flip=vertical" width="100%">
-</p>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
+
+</div>
+
+---
+
+## 💬 Let's Connect & Collaborate
+
+<div align="center">
+
+### I am always available to consult on:
+**📈 Interactive Dashboards** • **🔍 SQL Data Extraction** • **⚙️ Spreadsheet Automation** • **💡 Business Reporting**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Fiverr](https://img.shields.io/badge/Fiverr_Gig-Order_Dashboard-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](YOUR_FIVERR_GIG_OR_PROFILE_LINK)
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-Available-green?style=for-the-badge)](mailto:your-email@gmail.com)
+
+<br/>
+
+### 💭 Data Wisdom
+*"In God we trust, all others must bring data."* – W. Edwards Deming
+
+*"Torture the data, and it will confess to anything."* – Ronald Coase
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Turning%20Data%20into%20Decisions!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=70&flip=vertical" width="100%">
+</div>
