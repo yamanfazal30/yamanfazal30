@@ -19,7 +19,7 @@
 
   <!-- Fiverr -->
   <a href="https://www.fiverr.com/s/WE5Ej07">
-    <img src="https://img.shields.io/badge/-Fiverr_Gig-1DBF73?style=flat-square&logo=Fiverr&logoColor=white" alt="Fiverr"/>
+    <img src="https://img.shields.io/badge/-Fiverr-1DBF73?style=flat-square&logo=Fiverr&logoColor=white" alt="Fiverr"/>
   </a>
 
 </p>
