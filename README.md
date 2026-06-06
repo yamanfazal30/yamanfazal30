@@ -3,12 +3,12 @@
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="www.linkedin.com/in/yaman-fazal-684819311">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
   <!-- GitHub -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/yamanfazal30">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"/>
   </a>
 
@@ -18,7 +18,7 @@
   </a>
 
   <!-- Fiverr -->
-  <a href="YOUR_FIVERR_GIG_OR_PROFILE_LINK">
+  <a href="https://www.fiverr.com/s/WE5Ej07">
     <img src="https://img.shields.io/badge/-Fiverr_Gig-1DBF73?style=flat-square&logo=Fiverr&logoColor=white" alt="Fiverr"/>
   </a>
 
