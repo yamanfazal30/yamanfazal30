@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="www.linkedin.com/in/yaman-fazal-684819311">
+  <a href="https://www.linkedin.com/in/yaman-fazal-684819311/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
