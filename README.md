@@ -129,23 +129,19 @@
 
 ---
 
-### 🎛️ Analytics Tech Stack Optimization (Self-Scored KPIs)
+### 🎛️ Analytics Tech Stack Optimization
 
-**Power BI & Interactive UI/UX Design**
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 95%
-* *Specialty: Complex DAX Measures, Relational Data Modeling, and Stakeholder Dashboards.*
+* **Power BI & Interactive UI/UX Design** `95%`
+  * *Specialty: Complex DAX Measures, Relational Data Modeling, and Stakeholder Dashboards.*
 
-**Advanced Excel & Spreadsheet Automation**
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 95%
-* *Specialty: Power Query ETL Pipelines, Dynamic KPI Cards, and Matrix Reports.*
+* **Advanced Excel & Spreadsheet Automation** `95%`
+  * *Specialty: Power Query ETL Pipelines, Dynamic KPI Cards, and Matrix Reports.*
 
-**SQL Database Extraction & Warehousing**
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 88%
-* *Specialty: Multi-table JOINs, Subqueries, CTEs, and Window Functions.*
+* **SQL Database Extraction & Warehousing** `88%`
+  * *Specialty: Multi-table JOINs, Subqueries, CTEs, and Window Functions.*
 
-**Python Scripting & Data Wrangling**
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ 75%
-* *Specialty: Data Cleaning with Pandas and Algorithmic Manipulation with NumPy.*
+* **Python Scripting & Data Wrangling** `75%`
+  * *Specialty: Data Cleaning with Pandas and Algorithmic Manipulation with NumPy.*
 
 ---
 
