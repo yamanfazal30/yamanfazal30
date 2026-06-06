@@ -121,14 +121,16 @@
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
+## 📊 GitHub Analytics & Data Core
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yamanfazal32&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yamanfazal32&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
-
-</div>
+| Metric | Overview |
+| :--- | :--- |
+| 🚀 **Primary Focus** | Data Analytics, ETL Pipelines, Business Intelligence |
+| 🗄️ **Core Database Stack** | SQL (PostgreSQL, MySQL, MS SQL Server) |
+| 📊 **BI & Visualization** | Power BI, Advanced Excel (Dashboards, Power Query) |
+| 🐍 **Automation Stack** | Python (Pandas, NumPy) |
+| ⚡ **Profile Activity** | [View Public Repositories](https://github.com/YOUR_EXACT_USERNAME?tab=repositories) |
 
 ---
 
