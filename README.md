@@ -120,14 +120,37 @@
 </details>
 
 ---
+## 📊 Analytics Command Center & KPI Metrics
 
+> ### 📈 Operational Profile Overview
+> **Position:** Data Analyst & BI Specialist  
+> **Core Objective:** Transforming raw structural data into executive-level visual insights.
+> **System Status:** Available for Freelance Contracts & Freelance Gig Deployments.
 
-## 📊 GitHub Analytics & Data Core
+---
 
-## 📊 GitHub Analytics
+### 🎛️ Analytics Tech Stack Optimization (Self-Scored KPIs)
+
+**Power BI & Interactive UI/UX Design**
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 95%
+* *Specialty: Complex DAX Measures, Relational Data Modeling, and Stakeholder Dashboards.*
+
+**Advanced Excel & Spreadsheet Automation**
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 95%
+* *Specialty: Power Query ETL Pipelines, Dynamic KPI Cards, and Matrix Reports.*
+
+**SQL Database Extraction & Warehousing**
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 88%
+* *Specialty: Multi-table JOINs, Subqueries, CTEs, and Window Functions.*
+
+**Python Scripting & Data Wrangling**
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░ 75%
+* *Specialty: Data Cleaning with Pandas and Algorithmic Manipulation with NumPy.*
+
+---
+
+### 📈 Global Contribution Data Pipeline
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data_Analysis-Active-blue?style=for-the-badge&logo=analytics" alt="Data Analysis Active"/>
-  <img src="https://img.shields.io/badge/Dashboards_Built-Automated-green?style=for-the-badge&logo=microsoftexcel" alt="Excel Dashboards"/>
-  <img src="https://img.shields.io/badge/Queries_Optimized-SQL-orange?style=for-the-badge&logo=mysql" alt="SQL Queries"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamanfazal30&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=ffffff" alt="Data Analytics Streak" width="100%"/>
 </p>
