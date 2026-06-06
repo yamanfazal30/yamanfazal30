@@ -124,14 +124,10 @@
 
 ## 📊 GitHub Analytics & Data Core
 
-| Metric | Overview |
-| :--- | :--- |
-| 🚀 **Primary Focus** | Data Analytics, ETL Pipelines, Business Intelligence |
-| 🗄️ **Core Database Stack** | SQL (PostgreSQL, MySQL, MS SQL Server) |
-| 📊 **BI & Visualization** | Power BI, Advanced Excel (Dashboards, Power Query) |
-| 🐍 **Automation Stack** | Python (Pandas, NumPy) |
-| ⚡ **Profile Activity** | [View Public Repositories](https://github.com/YOUR_EXACT_USERNAME?tab=repositories) |
+## 📊 GitHub Analytics
 
----
-
-## 💬 Let's Connect & Collaborate
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Analysis-Active-blue?style=for-the-badge&logo=analytics" alt="Data Analysis Active"/>
+  <img src="https://img.shields.io/badge/Dashboards_Built-Automated-green?style=for-the-badge&logo=microsoftexcel" alt="Excel Dashboards"/>
+  <img src="https://img.shields.io/badge/Queries_Optimized-SQL-orange?style=for-the-badge&logo=mysql" alt="SQL Queries"/>
+</p>
