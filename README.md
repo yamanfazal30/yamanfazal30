@@ -23,7 +23,11 @@
   </a>
 
 </p>
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=4CAF50&center=true&vCenter=true&width=900&lines=Hi!+I'm+Yaman+Fazal;Welcome+to+My+Data+Portfolio;Building+Dynamic+Excel+%26+Power+BI+Dashboards;Turning+Raw+Data+Into+Actionable+Insights;Let's+Connect+%26+Collaborate" alt="Typing SVG"/>
+  </a>
+</p>
 
 ### 👋 About Me
 * 📊 Passionate **Data Analyst** dedicated to turning complex datasets into clear, actionable business insights.
